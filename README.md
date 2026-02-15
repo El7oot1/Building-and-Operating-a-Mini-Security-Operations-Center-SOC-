@@ -9,11 +9,12 @@ This project demonstrates the design, deployment, and operation of a **Mini Secu
 
 ## 👥 Team Members
 We are a dedicated team of engineers working together to build and secure this environment:
-1. **Islam Esam**
-2. **Mohamed Ashraf**
-3. **Ameen Yasser**
-4. **Hussien Ahmed**
-5. **Mohamed Mostafa Elhoot**
+1. **Mohamed Mostafa Elhoot**
+2. **Islam Esam**
+3. **Mohamed Ashraf**
+4. **Ameen Yasser**
+5. **Hussien Ahmed**
+
 
 ---
 
